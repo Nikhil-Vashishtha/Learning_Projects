@@ -5,3 +5,5 @@ This repository is created in the endeavour to learn, practice, and apply severa
 The resources include tutorial websites, video links, other git repositories by advanced users and algorithm inventors are explored, worked on, and studied.
 
 Links to theories and relevant blogs to understand the concepts also collated.
+
+Further in depth study and work to be done, along improvements  and augmentations on existing ones.
