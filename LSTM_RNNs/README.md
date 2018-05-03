@@ -4,7 +4,7 @@ work source:
 
 https://github.com/spiglerg/RNN_Text_Generation_Tensorflow
 
-# Text generation using a RNN (LSTM) using Tensorflow.
+Text generation using a RNN (LSTM) using Tensorflow.
 
 ## Changes made in the form of:-
 	#myAddition
