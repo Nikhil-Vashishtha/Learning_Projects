@@ -6,4 +6,4 @@ The resources include tutorial websites, video links, other git repositories by 
 
 Links to theories and relevant blogs to understand the concepts also collated.
 
-Further in depth study and work to be done, along improvements  and augmentations on existing ones.
+Further in depth study and work to be done, along with improvements  and augmentations on existing ones.
